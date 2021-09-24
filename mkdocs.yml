@@ -1,5 +1,5 @@
-site_name: Mkdocs教程
+site_name: 文档项目
 theme: readthedocs
-repo_url: https://github.com/TartaricAcid/Mkdocs
+repo_url: https://github.com/imyangdy/MyDoc.git
 site_favicon: favicon.ico
-copyright: 酒石酸的测试项目
+copyright: 文档测试项目
