@@ -1,0 +1,5 @@
+site_name: Mkdocs教程
+theme: readthedocs
+repo_url: https://github.com/TartaricAcid/Mkdocs
+site_favicon: favicon.ico
+copyright: 酒石酸的测试项目
